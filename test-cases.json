@@ -1,0 +1,6 @@
+{
+  "Data": [
+    { "Value": "aA", "Expected": false },
+    { "Value": "AA", "Expected": true }
+  ]
+}
